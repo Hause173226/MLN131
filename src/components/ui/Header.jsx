@@ -30,9 +30,6 @@ export default function Header() {
       >
         Giai Cấp Công Nhân Việt Nam trong Thời Kỳ CNH-HĐH
       </h1>
-      <p className="text-xs md:text-sm text-gray-300 mt-1 font-medium">
-        Đỗ Trần Phúc Hậu — SE173226
-      </p>
     </header>
   );
 }

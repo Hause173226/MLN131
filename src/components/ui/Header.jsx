@@ -21,6 +21,7 @@ export default function Header() {
         ${STAGE_ACCENT[currentStage]}
       `}
     >
+      {/* ádhasudh */}
       <p className="text-xs font-semibold tracking-widest text-gray-400 uppercase mb-1">
         MLN131 — Chủ nghĩa Mác-Lênin
       </p>
